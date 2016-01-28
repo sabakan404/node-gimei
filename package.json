@@ -1,0 +1,24 @@
+{
+  "name": "node-gimei",
+  "version": "0.0.2",
+  "description": "nodejs port of gimei",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demiglacesource/node-gimei.git"
+  },
+  "keywords": [
+    "gimei"
+  ],
+  "author": "demiglacesource",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demiglacesource/node-gimei/issues"
+  },
+  "homepage": "https://github.com/demiglacesource/node-gimei#readme",
+  "dependencies": {
+    "js-yaml": "3.5.2"
+  }
+}
