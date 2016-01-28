@@ -1,7 +1,7 @@
 node-gimei
 =========================
 
-gimeiのNode.js版です。架空の日本人名や住所文字列を作成します。  
+[gimei](https://github.com/willnet/gimei) のNode.js版です。架空の日本人名や住所文字列を作成します。  
 テストデータの作成などにどうぞ。
 
 Install
