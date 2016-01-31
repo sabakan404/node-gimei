@@ -54,9 +54,9 @@ Usage
 
     var gimei = require('node-gimei');
     var address = gimei.address();
-    console.log(address.kanji());                  // 岡山県大島郡大和村稲木町
-    console.log(address.hiragana());               // おかやまけんおおしまぐんやまとそんいなぎちょう
-    console.log(address.katakana());               // オカヤマケンオオシマグンヤマトソンイナギチョウ
+    console.log(address.kanji());                  // 岡山県 大島郡大和村 稲木町
+    console.log(address.hiragana());               // おかやまけん おおしまぐんやまとそん いなぎちょう
+    console.log(address.katakana());               // オカヤマケン オオシマグンヤマトソン イナギチョウ
     console.log(address.prefecture().kanji());     // 岡山県
     console.log(address.prefecture().hiragana());  // おかやまけん
     console.log(address.prefecture().katakana());  // オカヤマケン
