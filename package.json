@@ -1,6 +1,6 @@
 {
   "name": "node-gimei",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "random Japanese name and address generator. nodejs port of gimei",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/demiglacesource/node-gimei.git"
+    "url": "git+https://github.com/longgt/node-gimei.git"
   },
   "keywords": [
     "gimei",
@@ -21,13 +21,13 @@
   "author": "demiglacesource",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/demiglacesource/node-gimei/issues"
+    "url": "https://github.com/longgt/node-gimei/issues"
   },
-  "homepage": "https://github.com/demiglacesource/node-gimei#readme",
+  "homepage": "https://github.com/longgt/node-gimei#readme",
   "dependencies": {
-    "js-yaml": "3.5.2"
+    "js-yaml": "^3.13.1"
   },
   "devDependencies": {
-    "jasmine": "^2.4.1"
+    "jasmine": "^3.5.0"
   }
 }
