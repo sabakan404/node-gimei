@@ -3,6 +3,7 @@
   "version": "0.0.4",
   "description": "random Japanese name and address generator. nodejs port of gimei",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "jasmine"
   },
