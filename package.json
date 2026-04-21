@@ -3,6 +3,7 @@
   "version": "0.0.4",
   "description": "random Japanese name and address generator. nodejs port of gimei",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "jasmine"
   },
@@ -25,9 +26,9 @@
   },
   "homepage": "https://github.com/demiglacesource/node-gimei#readme",
   "dependencies": {
-    "js-yaml": "3.5.2"
+    "js-yaml": "4.1.1"
   },
   "devDependencies": {
-    "jasmine": "^2.4.1"
+    "jasmine": "^6.2.0"
   }
 }
